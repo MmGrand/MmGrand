@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Я Backend разработчик. Началось всё с того, что в университете я не знал куда мне идти дальше, и я решил разрабатывать сайты. Изучал разные языки программирования, проходил курсы, но пока остановился на PHP и его фреймворке Laravel. Во Frontend направлении немного знаю Vue JS. С 2022 года осени работаю, паралелльно изучаю разные возможности разработки и прогрессирую с каждым днём.</p>
+<p align="left">Я Backend разработчик. Пишу на PHP (Laravel), изучаю Go.</p>
 
 ###
 
@@ -25,13 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
